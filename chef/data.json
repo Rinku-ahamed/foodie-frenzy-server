@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "chef_profile": "https://i.ibb.co/rZ7YXJm/enrique-olvera.jpg",
+    "name": "John Smith",
+    "experience": "10 years",
+    "description": "Chef John specializes in fusion cuisine and loves experimenting with new flavor combinations.",
+    "likes": 3000,
+    "number_of_recipes": 3
+  },
+  {
+    "id": 2,
+    "chef_profile": "https://i.ibb.co/rZ7YXJm/enrique-olvera.jpg",
+    "name": "Emily Jones",
+    "experience": "8 years",
+    "description": "Chef Emily is a pastry expert and enjoys creating beautiful and delicious desserts.",
+    "likes": 2500,
+    "number_of_recipes": 3
+  },
+  {
+    "id": 3,
+    "chef_profile": "https://i.ibb.co/rZ7YXJm/enrique-olvera.jpg",
+    "name": "Alex Lee",
+    "experience": "12 years",
+    "description": "Chef Alex is a master of Asian cuisine and loves using fresh and local ingredients.",
+    "likes": 4000,
+    "number_of_recipes": 3
+  },
+  {
+    "id": 4,
+    "chef_profile": "https://i.ibb.co/rZ7YXJm/enrique-olvera.jpg",
+    "name": "Maria Garcia",
+    "experience": "5 years",
+    "description": "Chef Maria specializes in vegan and vegetarian cuisine and is passionate about healthy eating.",
+    "likes": 1500,
+    "number_of_recipes": 3
+  },
+  {
+    "id": 5,
+    "chef_profile": "https://i.ibb.co/rZ7YXJm/enrique-olvera.jpg",
+    "name": "David Kim",
+    "experience": "15 years",
+    "description": "Chef David is a barbecue master and loves cooking up delicious meat dishes for his guests.",
+    "likes": 5000,
+    "number_of_recipes": 3
+  },
+  {
+    "id": 6,
+    "chef_profile": "https://i.ibb.co/rZ7YXJm/enrique-olvera.jpg",
+    "name": "Sophie Chen",
+    "experience": "6 years",
+    "description": "Chef Sophie is a seafood expert and loves using sustainable ingredients in her dishes.",
+    "likes": 2000,
+    "number_of_recipes": 3
+  }
+]
