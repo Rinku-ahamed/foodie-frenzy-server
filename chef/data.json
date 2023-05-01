@@ -14,7 +14,7 @@
     "name": "Emily Jones",
     "experience": "8 years",
     "description": "Chef Emily is a pastry expert and enjoys creating beautiful and delicious desserts.",
-    "likes": 2500,
+    "likes": 2000,
     "number_of_recipes": 3
   },
   {
@@ -23,7 +23,7 @@
     "name": "Alex Lee",
     "experience": "12 years",
     "description": "Chef Alex is a master of Asian cuisine and loves using fresh and local ingredients.",
-    "likes": 4000,
+    "likes": 3000,
     "number_of_recipes": 3
   },
   {
@@ -41,7 +41,7 @@
     "name": "David Kim",
     "experience": "15 years",
     "description": "Chef David is a barbecue master and loves cooking up delicious meat dishes for his guests.",
-    "likes": 5000,
+    "likes": 1000,
     "number_of_recipes": 3
   },
   {
