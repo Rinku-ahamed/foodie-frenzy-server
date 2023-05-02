@@ -6,7 +6,7 @@ const chefs = require("./chef/data.json");
 
 app.use(cors());
 app.get("/", (req, res) => {
-  res.send("My server is running");
+  res.send("Create this server for test purpose");
 });
 
 app.get("/chefs", (req, res) => {
@@ -16,7 +16,6 @@ app.get("/chef/:id", (req, res) => {
   const id = parseInt(req.params.id);
   const singleChef = chefs.find((chef) => chef.id === id);
   res.send(singleChef);
-  console.log(id);
 });
 
 app.listen(port, () => {
