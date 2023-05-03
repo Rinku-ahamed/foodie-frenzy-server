@@ -6,7 +6,45 @@
     "experience": "10 years",
     "description": "Enrique Olvera is a Mexican chef. He is the owner and head chef of Pujol, a Mexican haute cuisine restaurant in Mexico City, which is currently ranked 9th in the world according to the 2021 annual",
     "likes": 5000,
-    "number_of_recipes": 3
+    "number_of_recipes": 3,
+    "recipes": [
+      {
+        "recipeName": "Tacos al Pastor",
+        "ingredients": [
+          "1 lb. pork tenderloin, thinly sliced",
+          "1/2 cup pineapple juice",
+          "2 tbsp. achiote paste",
+          "1 tsp. dried oregano",
+          "1/2 tsp. ground cumin"
+        ],
+        "cookingMethod": "In a large bowl, mix together the pork, pineapple juice, achiote paste, oregano, and cumin. Marinate for at least 2 hours, or overnight. Heat a large skillet over medium-high heat and cook the pork until browned and crispy, about 3-5 minutes per side. Serve in warm tortillas with chopped onion, cilantro, and lime wedges.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Guacamole",
+        "ingredients": [
+          "3 ripe avocados",
+          "1/2 small red onion, finely chopped",
+          "1 jalapeño pepper, seeded and finely chopped",
+          "2 tbsp. chopped fresh cilantro",
+          "2 tbsp. fresh lime juice"
+        ],
+        "cookingMethod": "In a large bowl, mash the avocados with a fork or a potato masher until they are mostly smooth but still slightly chunky. Stir in the red onion, jalapeño, cilantro, and lime juice. Season with salt and black pepper to taste.",
+        "rating": 4.7
+      },
+      {
+        "recipeName": "Chiles Rellenos",
+        "ingredients": [
+          "6 poblano peppers",
+          "1 lb. ground beef",
+          "1/2 small onion, chopped",
+          "1/2 cup cooked rice",
+          "1/2 cup shredded Monterey Jack cheese"
+        ],
+        "cookingMethod": "Roast the peppers over an open flame or under the broiler until the skin is charred. Let cool, then peel off the skin and remove the seeds. In a large skillet, cook the ground beef and onion until the beef is browned and cooked through. Add the cooked rice and cheese, and stir until the cheese is melted. Stuff the peppers with the beef mixture and place them in a baking dish. Bake at 375°F for 15-20 minutes, or until heated through and the cheese is bubbly and golden brown.",
+        "rating": 4.5
+      }
+    ]
   },
   {
     "id": 2,
@@ -15,7 +53,45 @@
     "experience": "10 years",
     "description": "Chef Juan specializes in modern Mexican cuisine and enjoys using unique ingredients and flavor combinations in his dishes.",
     "likes": 3500,
-    "number_of_recipes": 3
+    "number_of_recipes": 3,
+    "recipes": [
+      {
+        "recipeName": "Tacos al Pastor",
+        "ingredients": [
+          "1 lb. pork tenderloin, thinly sliced",
+          "1/2 cup pineapple juice",
+          "2 tbsp. achiote paste",
+          "1 tsp. dried oregano",
+          "1/2 tsp. ground cumin"
+        ],
+        "cookingMethod": "In a large bowl, mix together the pork, pineapple juice, achiote paste, oregano, and cumin. Marinate for at least 2 hours, or overnight. Heat a large skillet over medium-high heat and cook the pork until browned and crispy, about 3-5 minutes per side. Serve in warm tortillas with chopped onion, cilantro, and lime wedges.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Guacamole",
+        "ingredients": [
+          "3 ripe avocados",
+          "1/2 small red onion, finely chopped",
+          "1 jalapeño pepper, seeded and finely chopped",
+          "2 tbsp. chopped fresh cilantro",
+          "2 tbsp. fresh lime juice"
+        ],
+        "cookingMethod": "In a large bowl, mash the avocados with a fork or a potato masher until they are mostly smooth but still slightly chunky. Stir in the red onion, jalapeño, cilantro, and lime juice. Season with salt and black pepper to taste.",
+        "rating": 4.7
+      },
+      {
+        "recipeName": "Chiles Rellenos",
+        "ingredients": [
+          "6 poblano peppers",
+          "1 lb. ground beef",
+          "1/2 small onion, chopped",
+          "1/2 cup cooked rice",
+          "1/2 cup shredded Monterey Jack cheese"
+        ],
+        "cookingMethod": "Roast the peppers over an open flame or under the broiler until the skin is charred. Let cool, then peel off the skin and remove the seeds. In a large skillet, cook the ground beef and onion until the beef is browned and cooked through. Add the cooked rice and cheese, and stir until the cheese is melted. Stuff the peppers with the beef mixture and place them in a baking dish. Bake at 375°F for 15-20 minutes, or until heated through and the cheese is bubbly and golden brown.",
+        "rating": 4.5
+      }
+    ]
   },
   {
     "id": 3,
@@ -24,7 +100,45 @@
     "experience": "12 years",
     "description": "Martha Ortiz is a master of Mexican street food and loves creating flavorful and affordable dishes for her guests.",
     "likes": 4000,
-    "number_of_recipes": 3
+    "number_of_recipes": 3,
+    "recipes": [
+      {
+        "recipeName": "Tacos al Pastor",
+        "ingredients": [
+          "1 lb. pork tenderloin, thinly sliced",
+          "1/2 cup pineapple juice",
+          "2 tbsp. achiote paste",
+          "1 tsp. dried oregano",
+          "1/2 tsp. ground cumin"
+        ],
+        "cookingMethod": "In a large bowl, mix together the pork, pineapple juice, achiote paste, oregano, and cumin. Marinate for at least 2 hours, or overnight. Heat a large skillet over medium-high heat and cook the pork until browned and crispy, about 3-5 minutes per side. Serve in warm tortillas with chopped onion, cilantro, and lime wedges.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Guacamole",
+        "ingredients": [
+          "3 ripe avocados",
+          "1/2 small red onion, finely chopped",
+          "1 jalapeño pepper, seeded and finely chopped",
+          "2 tbsp. chopped fresh cilantro",
+          "2 tbsp. fresh lime juice"
+        ],
+        "cookingMethod": "In a large bowl, mash the avocados with a fork or a potato masher until they are mostly smooth but still slightly chunky. Stir in the red onion, jalapeño, cilantro, and lime juice. Season with salt and black pepper to taste.",
+        "rating": 4.7
+      },
+      {
+        "recipeName": "Chiles Rellenos",
+        "ingredients": [
+          "6 poblano peppers",
+          "1 lb. ground beef",
+          "1/2 small onion, chopped",
+          "1/2 cup cooked rice",
+          "1/2 cup shredded Monterey Jack cheese"
+        ],
+        "cookingMethod": "Roast the peppers over an open flame or under the broiler until the skin is charred. Let cool, then peel off the skin and remove the seeds. In a large skillet, cook the ground beef and onion until the beef is browned and cooked through. Add the cooked rice and cheese, and stir until the cheese is melted. Stuff the peppers with the beef mixture and place them in a baking dish. Bake at 375°F for 15-20 minutes, or until heated through and the cheese is bubbly and golden brown.",
+        "rating": 4.5
+      }
+    ]
   },
   {
     "id": 4,
@@ -33,7 +147,45 @@
     "experience": "8 years",
     "description": "Chef Edgar Núñez is an up-and-coming chef who combines Mexican and European cuisine in his dishes.",
     "likes": 2000,
-    "number_of_recipes": 3
+    "number_of_recipes": 3,
+    "recipes": [
+      {
+        "recipeName": "Tacos al Pastor",
+        "ingredients": [
+          "1 lb. pork tenderloin, thinly sliced",
+          "1/2 cup pineapple juice",
+          "2 tbsp. achiote paste",
+          "1 tsp. dried oregano",
+          "1/2 tsp. ground cumin"
+        ],
+        "cookingMethod": "In a large bowl, mix together the pork, pineapple juice, achiote paste, oregano, and cumin. Marinate for at least 2 hours, or overnight. Heat a large skillet over medium-high heat and cook the pork until browned and crispy, about 3-5 minutes per side. Serve in warm tortillas with chopped onion, cilantro, and lime wedges.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Guacamole",
+        "ingredients": [
+          "3 ripe avocados",
+          "1/2 small red onion, finely chopped",
+          "1 jalapeño pepper, seeded and finely chopped",
+          "2 tbsp. chopped fresh cilantro",
+          "2 tbsp. fresh lime juice"
+        ],
+        "cookingMethod": "In a large bowl, mash the avocados with a fork or a potato masher until they are mostly smooth but still slightly chunky. Stir in the red onion, jalapeño, cilantro, and lime juice. Season with salt and black pepper to taste.",
+        "rating": 4.7
+      },
+      {
+        "recipeName": "Chiles Rellenos",
+        "ingredients": [
+          "6 poblano peppers",
+          "1 lb. ground beef",
+          "1/2 small onion, chopped",
+          "1/2 cup cooked rice",
+          "1/2 cup shredded Monterey Jack cheese"
+        ],
+        "cookingMethod": "Roast the peppers over an open flame or under the broiler until the skin is charred. Let cool, then peel off the skin and remove the seeds. In a large skillet, cook the ground beef and onion until the beef is browned and cooked through. Add the cooked rice and cheese, and stir until the cheese is melted. Stuff the peppers with the beef mixture and place them in a baking dish. Bake at 375°F for 15-20 minutes, or until heated through and the cheese is bubbly and golden brown.",
+        "rating": 4.5
+      }
+    ]
   },
   {
     "id": 5,
@@ -42,7 +194,45 @@
     "experience": "20 years",
     "description": "Chef Javier Plascencia is a Mexican culinary icon and has authored several cookbooks that showcase the diversity and richness of Mexican cuisine.",
     "likes": 8000,
-    "number_of_recipes": 3
+    "number_of_recipes": 3,
+    "recipes": [
+      {
+        "recipeName": "Tacos al Pastor",
+        "ingredients": [
+          "1 lb. pork tenderloin, thinly sliced",
+          "1/2 cup pineapple juice",
+          "2 tbsp. achiote paste",
+          "1 tsp. dried oregano",
+          "1/2 tsp. ground cumin"
+        ],
+        "cookingMethod": "In a large bowl, mix together the pork, pineapple juice, achiote paste, oregano, and cumin. Marinate for at least 2 hours, or overnight. Heat a large skillet over medium-high heat and cook the pork until browned and crispy, about 3-5 minutes per side. Serve in warm tortillas with chopped onion, cilantro, and lime wedges.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Guacamole",
+        "ingredients": [
+          "3 ripe avocados",
+          "1/2 small red onion, finely chopped",
+          "1 jalapeño pepper, seeded and finely chopped",
+          "2 tbsp. chopped fresh cilantro",
+          "2 tbsp. fresh lime juice"
+        ],
+        "cookingMethod": "In a large bowl, mash the avocados with a fork or a potato masher until they are mostly smooth but still slightly chunky. Stir in the red onion, jalapeño, cilantro, and lime juice. Season with salt and black pepper to taste.",
+        "rating": 4.7
+      },
+      {
+        "recipeName": "Chiles Rellenos",
+        "ingredients": [
+          "6 poblano peppers",
+          "1 lb. ground beef",
+          "1/2 small onion, chopped",
+          "1/2 cup cooked rice",
+          "1/2 cup shredded Monterey Jack cheese"
+        ],
+        "cookingMethod": "Roast the peppers over an open flame or under the broiler until the skin is charred. Let cool, then peel off the skin and remove the seeds. In a large skillet, cook the ground beef and onion until the beef is browned and cooked through. Add the cooked rice and cheese, and stir until the cheese is melted. Stuff the peppers with the beef mixture and place them in a baking dish. Bake at 375°F for 15-20 minutes, or until heated through and the cheese is bubbly and golden brown.",
+        "rating": 4.5
+      }
+    ]
   },
   {
     "id": 6,
@@ -51,6 +241,44 @@
     "experience": "5 years",
     "description": "Pati Jinich is a young and innovative chef who combines Mexican and Asian flavors in his dishes.",
     "likes": 1500,
-    "number_of_recipes": 3
+    "number_of_recipes": 3,
+    "recipes": [
+      {
+        "recipeName": "Tacos al Pastor",
+        "ingredients": [
+          "1 lb. pork tenderloin, thinly sliced",
+          "1/2 cup pineapple juice",
+          "2 tbsp. achiote paste",
+          "1 tsp. dried oregano",
+          "1/2 tsp. ground cumin"
+        ],
+        "cookingMethod": "In a large bowl, mix together the pork, pineapple juice, achiote paste, oregano, and cumin. Marinate for at least 2 hours, or overnight. Heat a large skillet over medium-high heat and cook the pork until browned and crispy, about 3-5 minutes per side. Serve in warm tortillas with chopped onion, cilantro, and lime wedges.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Guacamole",
+        "ingredients": [
+          "3 ripe avocados",
+          "1/2 small red onion, finely chopped",
+          "1 jalapeño pepper, seeded and finely chopped",
+          "2 tbsp. chopped fresh cilantro",
+          "2 tbsp. fresh lime juice"
+        ],
+        "cookingMethod": "In a large bowl, mash the avocados with a fork or a potato masher until they are mostly smooth but still slightly chunky. Stir in the red onion, jalapeño, cilantro, and lime juice. Season with salt and black pepper to taste.",
+        "rating": 4.7
+      },
+      {
+        "recipeName": "Chiles Rellenos",
+        "ingredients": [
+          "6 poblano peppers",
+          "1 lb. ground beef",
+          "1/2 small onion, chopped",
+          "1/2 cup cooked rice",
+          "1/2 cup shredded Monterey Jack cheese"
+        ],
+        "cookingMethod": "Roast the peppers over an open flame or under the broiler until the skin is charred. Let cool, then peel off the skin and remove the seeds. In a large skillet, cook the ground beef and onion until the beef is browned and cooked through. Add the cooked rice and cheese, and stir until the cheese is melted. Stuff the peppers with the beef mixture and place them in a baking dish. Bake at 375°F for 15-20 minutes, or until heated through and the cheese is bubbly and golden brown.",
+        "rating": 4.5
+      }
+    ]
   }
 ]
